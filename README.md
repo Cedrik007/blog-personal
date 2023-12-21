@@ -1,2 +1,2 @@
-# Mi primer Readme!!
+# Mi primer Readme
 blog personal con django
